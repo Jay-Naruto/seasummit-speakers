@@ -45,6 +45,7 @@ body{
   flex-direction: column;
   font-family: 'Raleway', sans-serif;
   min-height: 400px;
+  width: 300px;
 
 
 }
@@ -65,8 +66,8 @@ body{
   margin-top: 10px;
 }
 .description_row img{
-  height: 30px;
-  width: auto;
+  height: 40px;
+  width: 40px;
   border-radius: 50%;
 }
 .card{

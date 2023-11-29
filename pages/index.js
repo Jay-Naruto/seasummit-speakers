@@ -29,8 +29,7 @@ export default function Home() {
           </div>
             <div className='list'>
 
-
-            <div className="relative">
+                <div className="relative">
                   <img
                     className="img"
                     src="./Group 2642.png"
@@ -434,8 +433,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -445,9 +442,11 @@ export default function Home() {
                   <div className=" cardInside2 left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                      Assad Dar 
+                        Assad Dar
                       </h1>
-                      <div className="ceo text-[12px] lg:text-[2vh]">Co-founder & Chief Visionary Officer</div>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Co-founder & Chief Visionary Officer
+                      </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
                         <div>Medieval Empires</div>
 
@@ -460,8 +459,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -471,9 +468,11 @@ export default function Home() {
                   <div className=" cardInside2 left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                      Pratik Oswal
+                        Pratik Oswal
                       </h1>
-                      <div className="ceo text-[12px] lg:text-[2vh]">Chief Technical Analyst & Head</div>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Chief Technical Analyst & Head
+                      </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
                         <div>Altcoin Buzz Labs</div>
 
@@ -486,10 +485,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -499,9 +494,11 @@ export default function Home() {
                   <div className=" cardInside2 left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                     Rudy Shoushany
+                        Rudy Shoushany
                       </h1>
-                      <div className="ceo text-[12px] lg:text-[2vh]">Founder</div>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Founder
+                      </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
                         <div>CryptoTalks & DxTalks</div>
 
@@ -514,10 +511,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -527,11 +520,16 @@ export default function Home() {
                   <div className=" cardInside2 left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                      Ethan Pierse
+                        Ethan Pierse
                       </h1>
-                      <div className="ceo text-[12px] lg:text-[2vh]">Founder, Director, Co-Founder</div>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Founder, Director, Co-Founder
+                      </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
-                        <div>Borderless Ventures, The CryptoAssets Institute, NFT Factory Paris</div>
+                        <div>
+                          Borderless Ventures, The CryptoAssets Institute, NFT
+                          Factory Paris
+                        </div>
 
                         <img
                           src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zxtqtffg7hatkuyhqs0p"
@@ -542,8 +540,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -553,9 +549,11 @@ export default function Home() {
                   <div className=" cardInside2 left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                      Arpit Sharma
+                        Arpit Sharma
                       </h1>
-                      <div className="ceo text-[12px] lg:text-[2vh]">Managing Director</div>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Managing Director
+                      </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
                         <div>Near Foundation</div>
 
@@ -568,10 +566,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -581,7 +575,7 @@ export default function Home() {
                   <div className=" cardInside2 left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                      Shailesh Kunnath
+                        Shailesh Kunnath
                       </h1>
                       <div className="ceo text-[12px] lg:text-[2vh]">VC</div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
@@ -596,9 +590,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -608,16 +599,14 @@ export default function Home() {
                   <div className=" cardInside2  left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                      Anton Golub
+                        Anton Golub
                       </h1>
                       <div className="ceo text-[12px] lg:text-[2vh]">
-                      Advisor, Founding Member & Chairman, Strategic Advisor, Advisor & Venture Partner 
-
+                        Advisor, Founding Member & Chairman, Strategic Advisor,
+                        Advisor & Venture Partner
                       </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
-                        <div>
-                        SwissAssetDAO, Pazar, Full Stack VC
-                        </div>
+                        <div>SwissAssetDAO, Pazar, Full Stack VC</div>
 
                         <img
                           src="https://media.licdn.com/dms/image/D560BAQF67UQlu_CYDA/company-logo_200_200/0/1686577829009?e=2147483647&v=beta&t=xe_nUw-iPQuP5oNohpKgYYwjjkeBnThf2zcNy2BR3VA"
@@ -628,9 +617,6 @@ export default function Home() {
                   </div>
                 </div>
 
-
-
-
                 <div className="relative">
                   <img
                     className="img"
@@ -640,16 +626,13 @@ export default function Home() {
                   <div className=" cardInside2 left-0 right-0  bottom-[0px]">
                     <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
                       <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
-                      Cristina Ceban
+                        Cristina Ceban
                       </h1>
                       <div className="ceo text-[12px] lg:text-[2vh]">
-                      Founder
-
+                        Founder
                       </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
-                        <div>
-                        Women Do Crypto
-                        </div>
+                        <div>Women Do Crypto</div>
 
                         <img
                           src="https://static.wixstatic.com/media/f845a6_8cbccbd202854c81b169c6a822a2cb60~mv2.png"
@@ -660,6 +643,363 @@ export default function Home() {
                   </div>
                 </div>
 
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./ebrahim.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Dr. Ebrahim Al Alkeem Al Zaabi
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Digital Transformation - Cyber Security - Artificial
+                        Intelligence expert
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Director Government of Abu Dhabi</div>
+
+                        <img
+                          src="https://static.vecteezy.com/system/resources/thumbnails/010/559/541/small/illustration-of-uae-flag-vector.jpg"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./junaid.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Mohammad Junaid Gulzar
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        CTO, Co-Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Windfall Token</div>
+
+                        <img
+                          src="https://s2.coinmarketcap.com/static/img/coins/200x200/14871.png"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./mudit.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Mudit Marda
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        CTO, Co-Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>DRIFE</div>
+
+                        <img
+                          src="https://static.wixstatic.com/media/3af3d0_334b1acbc14a4907af007368a02f2e67~mv2.png/v1/fill/w_58,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logoArtboard%201_edited.png"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./karnika.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Karnika E. Yashwant
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Founder, KEY Difference (Accelerator & VC), Co-Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Forward Protocol</div>
+
+                        <img
+                          src="https://pbs.twimg.com/profile_images/1478057402574458885/vqFZMtFJ_400x400.jpg"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./tashish.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Tashish Raisinghani
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Co Founder & CEO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>UnicusOne</div>
+
+                        <img
+                          src="https://media.licdn.com/dms/image/C4D0BAQHbaQ55ymyNLQ/company-logo_200_200/0/1642062578501/unicusone_logo?e=2147483647&v=beta&t=4vTv0PHvzbUlr7X5k7hGJ3Br4f-oE6Cw8dJP7nLtLjE"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./harman.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Harman Puri
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Member of Government Blockchain Association, Head of
+                        Strategy
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Anryton</div>
+
+                        <img
+                          src="https://media.licdn.com/dms/image/D4D0BAQFZh6kQjKzMvg/company-logo_200_200/0/1695618931465/anryton_logo?e=2147483647&v=beta&t=4EWVWrYbuG-FPDKkmQ832EsJJzF-xycKETteqryR7es"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./george.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        George Chivi
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Head Of Partnerships
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Smart Token Labs</div>
+
+                        <img
+                          src="https://cdn-images-1.medium.com/max/1200/1*OW5QwoEfzhrb4GSj3i5FGw.png"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./roushdy.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Mohamed Roushdy
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Senior Consultant - Digital Transformation and Fintech
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>International Finance Corporation</div>
+
+                        <img
+                          src="https://yt3.googleusercontent.com/ytc/APkrFKZ1TZV7kG5wkjcPi75A05YlAnJvn35JI3VZfPyu=s900-c-k-c0x00ffffff-no-rj"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./maria.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Maria Frąckowiak
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Sales Director
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Influ.com</div>
+
+                        <img src="./influ.png" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./julia.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Julia Upiterskaya
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Director of Communications And Public Relations
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>SLEX.io</div>
+
+                        <img
+                          src="https://slex.io/_next/static/media/welcome-wide-logo-icon.c5c792f6.svg"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./faraj.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Faraj Abutalibov
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Chief Commercial Officer
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Venom Foundation</div>
+
+                        <img
+                          src="https://venom.foundation/favicon.ico"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./ali.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Ali Safri
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Chief Technology Officer
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Avanza Innovations</div>
+
+                        <img
+                          src="https://avanzainnovations.com/wp-content/uploads/2020/09/avanza-spinner-logo-1.png"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./giovanni.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Giovanni Everduin
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Non Executive Director
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Luna PR</div>
+
+                        <img src="https://www.lunapr.io/favicon.png" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./ashish.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                        Ashish Kumar Singh
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                        Vice President
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Expand My Business</div>
+
+                        <img src="https://emb.global/favicon.svg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
 
             </div>
 
