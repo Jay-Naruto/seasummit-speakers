@@ -50,6 +50,7 @@ body{
 }
 .ceo{
   color: white;
+  width: 85%;
 }
 .description_row{
   display: flex;
