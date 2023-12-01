@@ -76,8 +76,12 @@ body{
 .img{
   width: 100%;
 }
+@font-face {
+  font-family: Name;
+  src: url(./Agrandir-WideBlackItalic.otf);
+}
 .cardname{
-  font-family: "Agrandir Wide Black";
+  font-family:Name !important;
 color: white;
 font-size: 25px;
 }
