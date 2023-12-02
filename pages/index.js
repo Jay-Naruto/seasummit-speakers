@@ -1001,6 +1001,179 @@ export default function Home() {
                   </div>
                 </div>
 
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./arvin.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Arvin Khamseh
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Lead
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>SoldOut NFTs</div>
+
+                        <img src="https://dubailocal.ae/assets/business-thumbnail/590x375-1687515394_f5fc598f7e4c1e247727.png" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./kevin.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Kevin Raham Soltani
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Founder & CEO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>GIMA Group Inc.</div>
+
+                        <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/egwbxlegmlgucbaiyvl9" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./sarah.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Sarah Abuagela
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Head of Investment
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Ceras Ventures</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4E0BAQHLYpLoSCeiTA/company-logo_200_200/0/1645007079678/cerasventures_logo?e=2147483647&v=beta&t=af7u3kDmkzqdvg4zo7k20cd2OcvRrYpnXUVVyDb7iHg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./deeban.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Dr Deeban Ratneswaran
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      CEO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>GD10 Capital</div>
+
+                        <img src="https://img.api.cryptorank.io/funds/gd_10_ventures1658824836518.png" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./tibor.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Tibor Mérey
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Managing Director and Partner
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Boston Consulting Group</div>
+
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BCG_Corporate_Logo.svg/1200px-BCG_Corporate_Logo.svg.png" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./mary.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Mary Pedler
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Founder & CEO 
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>INPUT Communications</div>
+
+                        <img src="https://media.licdn.com/dms/image/D4D0BAQFjTxxzRFmYKQ/company-logo_200_200/0/1693395875472/inputcommunications_logo?e=2147483647&v=beta&t=maq7s9yWE5Xq-SNY0k87lpq1xA2lN9WswA0lk3TjIdQ" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./lalit.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Lalit Bansal 
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Co-founder & CEO 
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>RevInfotech</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4D0BAQFeml9PH77Xmw/company-logo_200_200/0/1657179132950/revinfotech_logo?e=2147483647&v=beta&t=AM7KfAB87q0lcgvQYZ1ZKefAN_TBKWMr8tC2w4lry8E" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+
+
+
             </div>
 
         </div>
