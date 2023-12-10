@@ -1171,6 +1171,128 @@ export default function Home() {
                 </div>
 
 
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./nadim.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Nadim Alain Souss
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      CEO 
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Welist</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4D0BAQHL8E-9TewIVw/company-logo_200_200/0/1674828880422?e=2147483647&v=beta&t=dgd5285Q6OAIrE_MglXSKjTmeLS2FOjwZjvC1wTHOlI" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./utpal.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Utpal Chakraborty
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Data & Analytics, Peer Community
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Gartner</div>
+
+                        <img src="https://emt.gartnerweb.com/ngw/globalassets/en/newsroom/images/covers/gartner-press-release-twitter-thumbnail.png" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./gaurav.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Gaurav Mehta
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Co-Founder & CEO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Catax</div>
+
+                        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/qsx0j9veyz7kcudnkg52" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./aniket.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Aniket Jindal
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Co-Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Biconomy</div>
+
+                        <img src="https://assets-global.website-files.com/6364e65656ab107e465325d2/637add905834d1049ad03b19__LAoMuwcHz0l10fAz1xvxwTy4EowXkk_lT3Vp7OONYw.jpeg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./melanie.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Melanie Mohr
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Co-Founder & CEO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>PWR Labs</div>
+
+                        <img src="https://media.licdn.com/dms/image/D4E0BAQFZLw9M2Ad7Fw/company-logo_200_200/0/1694593175910?e=1710374400&v=beta&t=I8IuuxX1TCp7R0oAM0c9Nr7Fx9Fn_7IV3DxY9p7ApAY" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
 
 
 
