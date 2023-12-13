@@ -866,12 +866,12 @@ export default function Home() {
                         Maria Frąckowiak
                       </h1>
                       <div className="ceo text-[12px] lg:text-[2vh]">
-                        Sales Director
+                      Business Development Manager 
                       </div>
                       <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
-                        <div>Influ.com</div>
+                        <div>BITFOLD</div>
 
-                        <img src="./influ.png" alt="" />
+                        <img src="https://yt3.googleusercontent.com/UXjA-sVMcRFBL3nFsVD1rJg9_z4UZpOweOixOhiIhJdqnz_bDw_hmgkD212dcfbhXxpQHjQ0CQ=s900-c-k-c0x00ffffff-no-rj" alt="" />
                       </div>
                     </div>
                   </div>
@@ -1293,8 +1293,422 @@ export default function Home() {
                 </div>
 
 
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./navin_d.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Navin Dsouza
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Co-Founder & CEO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Comtech Gold</div>
+
+                        <img src="https://mms.businesswire.com/media/20220926005591/en/1582573/5/ComTech_GOLD_-_Logo.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./ayush_r.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Ayush Ranjan
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Chief Technology Officer
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Warlands NFT</div>
+
+                        <img src="https://warlands.io/logo.webp" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
 
 
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./abhishek_b.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Abhishek Bhattacharya
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      CEO & Co Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Impact Wave</div>
+
+                        <img src="https://www.theimpactwave.org/_next/static/media/impactwave-logo.0a116515.svg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./grant_n.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Grant Niven
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Founder Partner
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Mingzulu</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4E0BAQEfJDfQwBGfDA/company-logo_200_200/0/1677400900015?e=2147483647&v=beta&t=flq6-oW5rFw4JrqIpTTEH2myiLntppBP0EAoqBbNXh8" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./ishwari_w.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Ishwari Wani
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Associate Consultant
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>PwC India</div>
+
+                        <img src="https://media.licdn.com/dms/image/D560BAQEtmr6S8mWZEA/company-logo_200_200/0/1688459463757/pwc_india_logo?e=2147483647&v=beta&t=vGGK_2bzd2yoJluWd4mMgJHncVxAmzuV9RzaSUM_Yqw" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./navodaya.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Navodaya Singh Rajpurohit
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Legal DAO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>CoinQue Consulting</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4E0BAQEPH9HhB5k50g/company-logo_200_200/0/1646998431255?e=2147483647&v=beta&t=8vwHxVZt-UDsAj78aClU4gR8g1u2tk_8n8FZRzFsF2M" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./sunil_s1.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Sunil Sharma
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Senior Director of Product Management
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Circle</div>
+
+                        <img src="https://media.licdn.com/dms/image/D560BAQFONRpP_VBB_g/company-logo_200_200/0/1665523815027/circle_internet_financial_logo?e=1710374400&v=beta&t=AEndMYP6-DO5k3JT7bOpoc8sc2mK64mvgKpoHFB_OtU" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./satish.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Satish Kataria
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                   Co-Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Fandora</div>
+
+                        <img src="https://pbs.twimg.com/media/F3eXlnxWoAACHn_.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./nitesh.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Nitesh Mishra
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>ChaiDEX</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4D0BAQEbUMHrHfK3Mw/company-logo_200_200/0/1676446840776?e=2147483647&v=beta&t=Wjj-Jct0VnLQGPhVYmseqHEmVG6xX9ccu95AZyPgpm0" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./gaurav_d.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Gaurav Dubey
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Chief Executive Officer
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>TDeFi</div>
+
+                        <img src="https://s.yimg.com/ny/api/res/1.2/ANL83C7s3_3spVhvRuOdrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2OQ--/https://media.zenfs.com/en/accesswire.ca/2c7f2e5b89f3c0452df982214297d9a1" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./nihar_r.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Nihar Ranjan Singh
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Delivery & Partnership Lead
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Rejolut</div>
+
+                        <img src="https://pbs.twimg.com/profile_images/1465575886648791041/P3bcFsez_400x400.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./sunil_s2.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Sunil Sharma
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      CEO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Squadx</div>
+
+                        <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pdtgxadmxu7d86brc32u" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./igor.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Igor Bershadskiy
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Director of Business Development/Partnerships 
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Hacken Cybersecurity Services</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4D0BAQF6oxwFOUt4UA/company-logo_200_200/0/1674164143409?e=2147483647&v=beta&t=mXu898caQboRzQjrDYU7roT3aOSFffaqn0QyFVsy2U4" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./miko_m.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Miko Matsumura 
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Managing Partner
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>gumi Cryptos Capital</div>
+
+                        <img src="https://blog.gumi-cryptos.com/wp-content/uploads/2022/01/IMG_1160-480x360.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./saloi_b.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Saloi Benbaha
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Head of Institutional Partnerships
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>TradeFinex</div>
+
+                        <img src="https://pbs.twimg.com/profile_images/978644061274984448/0IvqmKX0_400x400.jpg" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./praj.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Prajnyasis Biswal
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                     CMO
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Bharatbox</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4D0BAQHdbu0hkLVN2A/company-logo_200_200/0/1675689477229?e=2147483647&v=beta&t=ptO2P2top1gmpdZQbG7wpxWf_TbclDfOm7Ky-SPEdGE" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./carl.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      Carl Runefelt 
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Founder & CEO 
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Cryptojobs.com</div>
+
+                        <img src="https://media.licdn.com/dms/image/C4D0BAQEfHM1tZs599Q/company-logo_200_200/0/1659104651463/cryptojobscom_logo?e=2147483647&v=beta&t=Kd1EgFBQB1OcxeLeQPdLAUGLvO7X0LGt02YwAq3SPtA" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
 
             </div>
 
