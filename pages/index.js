@@ -872,6 +872,7 @@ export default function Home() {
                         <div>BITFOLD</div>
 
                         <img src="https://yt3.googleusercontent.com/UXjA-sVMcRFBL3nFsVD1rJg9_z4UZpOweOixOhiIhJdqnz_bDw_hmgkD212dcfbhXxpQHjQ0CQ=s900-c-k-c0x00ffffff-no-rj" alt="" />
+                      
                       </div>
                     </div>
                   </div>
@@ -1705,6 +1706,30 @@ export default function Home() {
                         <div>Cryptojobs.com</div>
 
                         <img src="https://media.licdn.com/dms/image/C4D0BAQEfHM1tZs599Q/company-logo_200_200/0/1659104651463/cryptojobscom_logo?e=2147483647&v=beta&t=Kd1EgFBQB1OcxeLeQPdLAUGLvO7X0LGt02YwAq3SPtA" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="relative">
+                  <img
+                    className="img"
+                    src="./speaker_MDas.png"
+                    alt=""
+                  />
+                  <div className=" cardInside2 left-0 right-0  bottom-[0px]">
+                    <div className="card w-full px-[0vh] py-[1vh] rounded-[0vh]">
+                      <h1 className="cardname text-[20px] lg:text-[2.5vh] font-bold">
+                      M Das
+
+                      </h1>
+                      <div className="ceo text-[12px] lg:text-[2vh]">
+                      Founder
+                      </div>
+                      <div className=" description_row text-[12px] lg:text-[1.8vh] opacity-70">
+                        <div>Cobox Metaverse</div>
+
+                        <img src="https://pbs.twimg.com/profile_images/1684251633440391183/d02YWZiC_400x400.jpg" alt="" />
                       </div>
                     </div>
                   </div>
